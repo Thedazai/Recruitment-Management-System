@@ -141,9 +141,9 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="http://github.com/Thedazai/Recruitment-Management-System/blob/main/plantation.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/Thedazai/Recruitment-Management-System/blob/main/plant.jpeg" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/Thedazai/Recruitment-Management-System/blob/main/blood%20donation%201.jpeg" alt="Community Service Photo 2" width="30%">
-<img src="a3.jpeg" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/Thedazai/Recruitment-Management-System/blob/main/donation.jpeg" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
