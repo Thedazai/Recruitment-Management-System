@@ -71,8 +71,6 @@ During this course, I developed a comprehensive understanding of the Salesforce 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt; Recruitment Management System &gt;</p>
-
 </div>
 <!-- Project 1 -->
 <h3 id="project1">Project 1: Recruitment Management System </h3>
@@ -80,7 +78,7 @@ During this course, I developed a comprehensive understanding of the Salesforce 
 This project involved designing and developing a Recruitment Management System (RMS) using Salesforce. It was built using core platform concepts, including structured data modeling, complex object relationships, and advanced process automation. The project focused on creating custom objects such as Job Positions, Applications, Interviews, and Offers to manage the end-to-end hiring lifecycle.  I used Screen Flows to create intuitive candidate application forms and Record-Triggered Flows to automate status updates and job closures once openings were filled. Additionally, I implemented Apex Triggers and Scheduled Apex to prevent duplicate applications and send automated interview reminders. The system was designed with a strict security model, using Private OWD and a Role Hierarchy to ensure sensitive hiring data is accessible only to authorized HR staff and recruiters. This project helped me translate complex recruitment requirements into a scalable Salesforce solution while strengthening my skills in both administrative configuration and custom development.
 </p>
 <p>
-  <a href="project.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Thedazai/Recruitment-Management-System/blob/main/SURE%20Trust%20poject%20report%20(1)%20(1)%20rms.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
